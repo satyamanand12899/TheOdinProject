@@ -1,3 +1,2 @@
-# projectodin
-My first GitHub repo
-Hello Odin
+# The Odin Project
+Ongoing progress on The Odin Project to gain full stack development skills.
